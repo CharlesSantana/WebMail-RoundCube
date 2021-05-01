@@ -12,7 +12,7 @@ Clique aqui (https://github.com/CharlesSantana/WebMail-RoundCube/wiki)
 
 
 <ol>
-<li><a href="#https://github.com/CharlesSantana/Linux/wiki/01-Instala%C3%A7%C3%A3o-de-Server-Linux-Ubuntu">Requirements</a></li>
+<li><a href="https://github.com/CharlesSantana/Linux/wiki/01-Instala%C3%A7%C3%A3o-de-Server-Linux-Ubuntu">Requirements</a></li>
 <li><a href="#usage">Usage</a></li>
 <li><a href="#todo">Todo</a></li>
 <li><a href="#contribute">Contribute</a></li>
