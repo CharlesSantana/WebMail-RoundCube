@@ -1,5 +1,5 @@
 # WebMail-RoundCube
-### Instalação de Servidor de Email, utilizando MTA
+### Instalação de Servidor de Email
 
 GitHub GitHub go.mod Go version GitHub commit activity GitHub last commit GitHub contributors
 
