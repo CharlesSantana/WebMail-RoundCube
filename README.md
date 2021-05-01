@@ -10,3 +10,8 @@ License
 non3GPP-access is now under Apache 2.0 license.
 
 Clique aqui (https://github.com/CharlesSantana/WebMail-RoundCube/wiki)
+
+
+<MTMarkdownOptions output='html4'>
+    ... put your entry content here ...
+</MTMarkdownOptions>
