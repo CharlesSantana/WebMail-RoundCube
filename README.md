@@ -7,7 +7,7 @@
 [![GitHub last commit](https://img.shields.io/badge/Laborátorio-Redes_Código_Livre-blue?style=&logo=debian&link=https://github.com/NT-Facimp/)](https://github.com/NT-Facimp)
 
 **Professor  Paulo Henrique Sousa Barbosa**
-[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-blue?style=&logo=Linux&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
+[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-blue?style=&logo=email&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
  
 ### Instalação de Servidor de Email - WebMail-RoundCube
  
