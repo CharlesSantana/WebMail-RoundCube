@@ -15,7 +15,7 @@
  
 ### Sumário
 
-[![GitHub last commit](https://img.shields.io/badge/WIKI-WebMail_RoundCube-blue?style=&logo=mail&link=https://https://github.com/CharlesSantana/WebMail-RoundCube/wiki/)](https://github.com/CharlesSantana/WebMail-RoundCube/wiki)
+[![GitHub last commit](https://img.shields.io/badge/WIKI-WebMail_RoundCube-blue?style=&logo=roundcube&link=https://https://github.com/CharlesSantana/WebMail-RoundCube/wiki/)](https://github.com/CharlesSantana/WebMail-RoundCube/wiki)
 
 <ol>
 <li><a href="https://github.com/CharlesSantana/Linux/wiki/01-Instala%C3%A7%C3%A3o-de-Server-Linux-Ubuntu">Requirements</a></li>
