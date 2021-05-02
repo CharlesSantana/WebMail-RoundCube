@@ -12,6 +12,12 @@
 ## Instalação de Servidor de Email - WebMail-RoundCube [![GitHub last commit](https://img.shields.io/badge/WIKI-WebMail_RoundCube-blue?style=&logo=roundcube&link=https://https://github.com/CharlesSantana/WebMail-RoundCube/wiki/)](https://github.com/CharlesSantana/WebMail-RoundCube/wiki)
 # <a href="https://github.com/CharlesSantana/WebMail-RoundCube/wiki">Wiki WebMail-RoundCube</a>
 
+Neste WIKI instalaremos o Servidor de E-mail, utilizando <a href="https://github.com/CharlesSantana/WebMail-RoundCube/wiki/Conceitos">POSTFIX E DECOVET</a> 
+
+O RoundCube é um cliente de e-mail IMAP, gratuito que é baseado em uma interface web semelhante a um aplicativo. Oferece muitas funconalidades que todo cliente de email precisa para ser essencial ao uso tanto pessoal quanto empresarial.Seu suporte inclui, catalogo de endereços, gerenciamento de pastas, pesquisa avançada de mensagens, verificação ortográfica e muitas outras surpresas. https://roundcube.net/
+
+Acompanhe a instalação de um servidor webmail funcional.
+
 ### Sumário
 
 Acompanhe a instalação de um servidor webmail funcional.
