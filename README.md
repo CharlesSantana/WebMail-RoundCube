@@ -22,13 +22,3 @@
 <li><a href="#todo">Instalacao</a></li>
 <li><a href="#image-copyright-claims">Image Copyright Claims</a></li>
 </ol>
-
-<a name="ancora"></a>
-# Os 5 Granges Kages
-- [Hokage]
-- [Kazekage]
-- [Mizukage](#ancora3)
-- [Raikage](#ancora4)
-- [Tsuchikage](#ancora4)
-
-
